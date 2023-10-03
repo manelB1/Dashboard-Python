@@ -3,18 +3,18 @@
 
 Este é um aplicativo Streamlit para visualizar e analisar os dados de vendas de um supermercado. Ele usa pandas para carregar e manipular os dados, Plotly Express para criar visualizações interativas e Streamlit para criar a interface do usuário.
 
-#### Configuração
+## Configuração
 Certifique-se de que você tem todas as bibliotecas necessárias instaladas. Você pode instalá-las usando pip:
 pip install streamlit pandas plotly
 
 
-#### Executando o Aplicativo
+### Executando o Aplicativo
 Para executar o aplicativo, use o seguinte comando:
 
 
 Isso iniciará o aplicativo e abrirá uma janela no seu navegador.
 
-#### Funcionalidades
+## Funcionalidades
 O aplicativo carrega os dados de vendas de um arquivo CSV.
 Ele permite que você selecione um mês específico para análise.
 Exibe visualizações interativas com informações sobre o faturamento diário, tipos de produtos, filiais, tipos de pagamento e avaliações.
