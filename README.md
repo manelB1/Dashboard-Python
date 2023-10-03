@@ -1,5 +1,5 @@
 
-### Análise de Vendas de Supermercado
+# Análise de Vendas de Supermercado
 
 Este é um aplicativo Streamlit para visualizar e analisar os dados de vendas de um supermercado. Ele usa pandas para carregar e manipular os dados, Plotly Express para criar visualizações interativas e Streamlit para criar a interface do usuário.
 
